@@ -1,0 +1,15 @@
+{
+  "name": "AI-2048",
+  "collaborators": [
+    "Matthew Kennedy <kennedymj97@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "AI_2048_bg.wasm",
+    "AI_2048.js",
+    "AI_2048.d.ts"
+  ],
+  "module": "AI_2048.js",
+  "types": "AI_2048.d.ts",
+  "sideEffects": false
+}
