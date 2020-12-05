@@ -3,12 +3,12 @@
 </script>
 
 <svelte:head>
-  <title>2048 AI</title>
+  <title>Optimising the 2048 Game Engine</title>
 </svelte:head>
 
 <div class="flex flex-col my-10">
   <div class="mx-auto prose lg:prose-xl">
-    <h1>Producing a highly optimsied engine and performant AI for 2048</h1>
+    <h1>Optimising the 2048 Game Engine</h1>
     <p>
       The goal of this project was to produce a highly optimised engine for the
       game 2048. The game engine implements all the behaviour needed to play the
